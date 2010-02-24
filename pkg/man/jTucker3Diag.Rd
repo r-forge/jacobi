@@ -3,7 +3,7 @@
 \alias{jTucker3Diag}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+ Fits an orthonormal version of the INDSCAL/PARAFAC model.
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~

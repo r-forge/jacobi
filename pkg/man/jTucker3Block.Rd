@@ -3,7 +3,7 @@
 \alias{jTucker3Block}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+Fits a TUCKER-3 model using Jacobi plane rotations.
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
